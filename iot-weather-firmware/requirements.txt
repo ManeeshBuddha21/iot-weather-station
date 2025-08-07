@@ -1,0 +1,5 @@
+# Arduino Libraries (install from Library Manager)
+# - FirebaseESP8266
+# - DHT sensor library
+# - EEPROM
+# - ESP8266WiFi
