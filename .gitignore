@@ -1,0 +1,3 @@
+# Don't upload your secrets
+iot-weather-firmware/config.h
+iot-weather-app/.env
